@@ -11,6 +11,9 @@ This is an end-to-end Natural Language Processing (NLP) project that performs **
 * **Libraries:** NLTK, Scikit-learn, Pandas, NumPy, Rouge.
 * **Web Framework:** Streamlit.
 
+## 📸 App Demonstration
+![Text Summarizer Demo](demo-app-project.png)
+
 ## 🧠 How It Works
 1. **Preprocessing:** The text is cleaned, tokenized, and stopwords are removed.
 2. **Vectorization:** Sentences are converted into numerical vectors using **TF-IDF** (Term Frequency-Inverse Document Frequency).
