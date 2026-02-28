@@ -1,0 +1,8 @@
+streamlit
+numpy
+nltk
+scikit-learn
+pandas
+matplotlib
+wordcloud
+rouge
